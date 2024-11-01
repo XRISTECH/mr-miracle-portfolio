@@ -9,7 +9,7 @@ export type Project = {
 
 export const PROJECTS: Project[] = [
     {
-      image: "/images/projects/ecommercewebsite.jpeg",
+      image: "ecommercewebsite.jpeg",
       title: "E-commerce Platform",
       description: "A full-featured e-commerce platform with product management, cart functionality, and secure checkout.",
       url: "https://ecommerce-delta-ebon.vercel.app/",
