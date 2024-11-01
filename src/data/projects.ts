@@ -9,12 +9,12 @@ export type Project = {
 
 export const PROJECTS: Project[] = [
     {
-      image: "portfolio.png",
+      image: "/images/projects/ecommercewebsite.jpeg",
       title: "E-commerce Platform",
       description: "A full-featured e-commerce platform with product management, cart functionality, and secure checkout.",
-      url: "https://example-ecommerce.com",
-      github: "https://github.com/yourusername/ecommerce-platform",
-      technologies: ["React", "Node.js", "MongoDB", "Stripe"]
+      url: "https://ecommerce-delta-ebon.vercel.app/",
+      github: "https://github.com/XRISTECH/ecommerce",
+      technologies: ["Html", "Css", "Bootstrap", "Javascript"]
     },
     {
       image: "portfolio.png",
