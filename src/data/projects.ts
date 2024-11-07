@@ -11,26 +11,29 @@ export const PROJECTS: Project[] = [
     {
       image: "ecommercewebsite.jpeg",
       title: "E-commerce Platform",
-      description: "A full-featured e-commerce platform with product management, cart functionality, and secure checkout.",
+      description: "A full and responsive electronics  e-commerce website built with  Html, Css and Bootstrap",
       url: "https://ecommerce-delta-ebon.vercel.app/",
       github: "https://github.com/XRISTECH/ecommerce",
-      technologies: ["Html", "Css", "Bootstrap", "Javascript"]
-    },
+      technologies: ["Html", "Css", "Bootstrap"]
+    }, 
+    
     {
-      image: "portfolio.png",
-      title: "Task Management App",
-      description: "A mobile app for managing tasks and projects with team collaboration features.",
-      url: "https://taskmasterapp.com",
-      github: "https://github.com/yourusername/task-management-app",
-      technologies: ["Flutter", "Firebase", "Google Cloud"]
+      image: "luggage ecommerece.jpeg",
+      title: "Luggage E-commerce Platform",
+      description: "A full-featured luggage e-commerce platform with product management, cart functionality, and secure checkout.",
+      url: "https://bronxluggage.vercel.app/",
+      github: "https://github.com/XRISTECH/bronxluggage",
+      technologies: ["Html", "Css", "Bootstrap", "JavaScript"]
     },
+
     {
-      image: "portfolio.png",
-      title: "Weather Dashboard",
-      description: "A responsive web app that displays real-time weather information and forecasts.",
-      url: "https://weatherdashboard.example.com",
-      technologies: ["HTML", "CSS", "JavaScript", "OpenWeatherMap API"]
+      image: "biography website.jpeg",
+      title: "Biography Website",
+      description: "A responsive biography website using Albert Einstein as a case study.",
+      url: "https://biography-ruby.vercel.app/",
+      github: "",
+      technologies: ["HtmL", "Css", "Bootstrap"]
     }
-   
+    
   ];
 
