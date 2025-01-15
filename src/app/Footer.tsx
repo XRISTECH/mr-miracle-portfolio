@@ -44,7 +44,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="text-center text-sm text-gray-400">
-          <p>&copy; {currentYear} Your Name. All rights reserved.</p>
+          <p>&copy; {currentYear} Miracle Chris-Ibeawuchi. All rights reserved.</p>
         </div>
       </div>
     </footer>
