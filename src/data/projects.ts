@@ -31,9 +31,9 @@ export const PROJECTS: Project[] = [
       title: "Biography Website",
       description: "A responsive biography website using Albert Einstein as a case study.",
       url: "https://biography-ruby.vercel.app/",
-      github: "",
+      github: "https://github.com/XRISTECH/biography",
       technologies: ["HtmL", "Css", "Bootstrap"]
-    }
+    },
     
   ];
 
